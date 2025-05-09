@@ -15,6 +15,12 @@
 2. Extract the ZIP (if zipped).
 3. Double-click the `.exe` file to play the game — no installation needed!
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/fbb7e595-e424-49df-b3fc-85ef1bf2640b)
+![image](https://github.com/user-attachments/assets/2b839bbb-3855-4efd-9ba0-82ada0a9f424)
+![image](https://github.com/user-attachments/assets/29216426-4260-4b73-80cd-6268392d35cd)
+![image](https://github.com/user-attachments/assets/f84d12d3-4425-45be-aad0-2f158b74eca4)
+
 ## 🙋‍♂️ Author
 
 **Albert Ardiansyah**  
